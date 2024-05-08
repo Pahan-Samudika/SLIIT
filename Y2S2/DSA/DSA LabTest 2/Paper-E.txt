@@ -1,0 +1,52 @@
+Paper – E
+Students in a class are given a scholarship to follow a diploma course. Students are selected from the marks obtained from an aptitude test. 50%of the students with the highest marks are eligible for this scholarship.
+
+ 
+
+Assume there are 10 students in the class and write a python program to enter the marks of all the students and display the marks of the students who have selected for the scholarship. Save the program as 2E.py.
+
+ 
+
+Complete the below pseudo code of the insertion sort algorithm which sort numbers in ascending order and use it in your program.
+
+ 
+
+    INSERTION_SORT(A)
+
+    for k =  ____________ to n
+
+            key = A[k]
+
+            i = k - 1
+
+            while  i > 0 and A[i] > key
+
+                     A[i + 1]  = A[i]
+
+                     i  =  i  -1
+
+            A[i + 1] = key
+
+ 
+
+ 
+
+Upload the program to the courseweb link “DSA_2E-<center>_<Group>”
+
+ 
+
+Grading Sheet:
+
+ 
+
+1)      Program is compiling and running.   4 marks
+
+2)      Program is reading the input number from the keyboard and store them in an array.  3 marks
+
+3)      Given algorithm is completed     3 marks
+
+4)      Given algorithm is implemented.  5 marks
+
+5)      Find the marks of the selected students. 3 marks
+
+6)      Display the marks of the selected students  2 marks
